@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Ayushi Agarwal-@agarwal-ayushi
+#### :woman: Ayushi Agarwal-@agarwal-ayushi
 ___
 
 Hi, I am Ayushi. I am a PhD scholar (since 2019) in the Amar Nath and Shashi Khosla School of Information Technology [SIT](http://www.sit.iitd.ac.in/) at [Indian Institute of Technology, Delhi](http://www.iitd.ac.in/). I am a member of MARG (Memory and Architecture) lab whose principal investigator is my advisor [Prof. Preeti Ranjan Panda](https://www.cse.iitd.ac.in/~panda). I have done my Bachelors in Electronics and Communication Engineering from National Institute of Technology, Allahabad. I have worked as a Design Engineer in Qualcomm Design Center, Bangalore for 3 years. Before joining PhD, I have worked as a Research Engineer in the [Green IC Group](http://www.green-ic.org/) led by [Prof. Massimo Alioto](https://www.eng.nus.edu.sg/ece/staff/massimo-bruno-alioto/) in National University of Singapore for a year.
