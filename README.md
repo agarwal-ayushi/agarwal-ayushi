@@ -24,6 +24,7 @@ ___
 
 - Twitter: https://twitter.com/ayushiagg17
 - Personal Website: [Ayushi Agarwal](https://cse.iitd.ac.in/~anz188503)
+- Personal Blog: [My blog](https://cse.iitd.ac.in/~anz188503/#blog)
 - LinkedIn: https://www.linkedin.com/in/ayushiagarwal17/
 
 
