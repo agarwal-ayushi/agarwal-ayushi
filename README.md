@@ -24,8 +24,8 @@ I spend my spare time reading books, writing articles, listening to soft music, 
 ___
 
 - Twitter: https://twitter.com/ayushiagg17
-- Personal Website: [Ayushi Agarwal](agarwal-ayushi.github.io)
-- Personal Blog: [My blog](agarwal-ayushi.github.io/#blog)
+- Personal Website: [Ayushi Agarwal](https://agarwal-ayushi.github.io)
+- Personal Blog: [My blog](https://agarwal-ayushi.github.io/#blog)
 - LinkedIn: https://www.linkedin.com/in/ayushiagarwal17/
 
 
